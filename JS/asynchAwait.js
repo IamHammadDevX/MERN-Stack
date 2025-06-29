@@ -6,7 +6,7 @@ console.log("Fetching Data...");
 //     // fetch data -> async code
 //     let response = await fetch("https://jsonplaceholder.typicode.com/posts")
 //     // parse the json obj -> async code
-//     let data = (await response).json()
+//     let data = await response.json()
 //     console.log(data);
 // }
 
